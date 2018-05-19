@@ -44,7 +44,7 @@ namespace GameCaro
         {
             g.DrawEllipse(pen, point.X+4, point.Y+4 , OCo._ChieuRong-8, OCo._chieuCao-8);
             //g.DrawEllipse(pen, point.X + 2, point.Y + 2, OCo._ChieuRong - 4, OCo._chieuCao - 4);
-
+            // comment
         }
         public void XoaQuanCo(Graphics g, Point point,SolidBrush sb)
         {
